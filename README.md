@@ -1,4 +1,4 @@
-# Chatbot Flow Builder (BiteSpeed Frontend Task)
+# chatbot-flow-builder
 
 A simple chatbot flow builder built with **React** and **React Flow**.  
 Users can create a flow by **dragging Message nodes onto the canvas**, **connecting nodes** using handles, and **editing node text** from a settings panel. The flow can be saved with validation.
@@ -23,7 +23,9 @@ This project implements the required features:
 - **Vite** (for development/build)
 
 ## Setup Instructions (Run Locally)
+
 ### 1) Clone the repository
+
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <REPO_FOLDER_NAME>
+git clone https://github.com/jnvgauri5055/chatbot-flow-builder.git
+cd chatbot-flow-builder
